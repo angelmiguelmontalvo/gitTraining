@@ -1,2 +1,2 @@
-# gitTraining 
-# gitTraining 
+# gitTraining
+"Sample project1"
